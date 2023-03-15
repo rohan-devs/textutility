@@ -38,6 +38,11 @@ export default function Navbar(props) {
                 {props.about}
               </Link>
             </li>
+             <li className="nav-item">
+              <a href="https://github.com/rohanwebuwu/textutility">
+                github
+              </a>
+            </li>
           </ul>
         </div>
         <input
